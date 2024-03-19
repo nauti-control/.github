@@ -12,6 +12,7 @@ Youtube - https://www.youtube.com/@nauti-control
 Facebook - https://www.facebook.com/nauticontrol/
 
 Sponsors get access to private beta repo sign up today!
+
 https://nauti-control.com/2024/03/19/github-sponsors-get-early-access-to-v2-firmware-code/
 
 
